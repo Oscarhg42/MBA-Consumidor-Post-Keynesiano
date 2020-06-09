@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  9 JUN 2020 13:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  9 JUN 2020 15:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -530,8 +530,10 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip63
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
+) (./intro.aux
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
 )
-No file intro.aux.
 \openout1 = `intro.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
@@ -550,6 +552,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Info: Redefining \. on input line 39.
 LaTeX Info: Redefining \% on input line 39.
+
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count150
@@ -577,6 +580,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 39.
 LaTeX Info: Redefining \pageref on input line 39.
 LaTeX Info: Redefining \nameref on input line 39.
+
+(./intro.out) (./intro.out)
 \@outlinefile=\write3
 \openout3 = `intro.out'.
 
@@ -643,25 +648,18 @@ LaTeX Info: Redefining \% on input line 20.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
-
-
-Package rerunfilecheck Warning: File `intro.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `intro.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `intro.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  ) 
 Here is how much of TeX's memory you used:
- 9725 strings out of 492616
- 143029 string characters out of 6129482
- 254556 words of memory out of 5000000
- 13480 multiletter control sequences out of 15000+600000
+ 9737 strings out of 492616
+ 143167 string characters out of 6129482
+ 254660 words of memory out of 5000000
+ 13486 multiletter control sequences out of 15000+600000
  12372 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,5n,38p,684b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,5n,38p,724b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
@@ -670,7 +668,7 @@ sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 ocal/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/loc
 al/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local
 /texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on intro.pdf (1 page, 96365 bytes).
+Output written on intro.pdf (1 page, 97396 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
