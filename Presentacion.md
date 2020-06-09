@@ -1,9 +1,10 @@
-# Presentación.
+# Presentación
 
 ## Equipo
-Luis Omar Barbosa García
-Jose Alberto Rosales
-Oscar Hurtado González
+
+Luis Omar Barbosa García \
+Jose Alberto Rosales \
+Oscar Hurtado González \
 
 ## Contenido
 
